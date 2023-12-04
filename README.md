@@ -18,7 +18,7 @@
 >     python main.py --world=office --task=c4
 >     python main.py --world=office --task=bonus
 >
-> Similarly, for MineCraft domain:
+> Similarly, for the rest 4 tasks on MineCraft domain:
 > 
 >     python main.py --world=craft --task=plant
 >     python main.py --world=craft --task=bridge
