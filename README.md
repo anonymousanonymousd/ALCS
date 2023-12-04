@@ -26,7 +26,7 @@
 >     python main.py --world=craft --task=gem
 >
 > 
-> To show the learning results in the paper, you may need command:
+> To plot the learning results shown in the paper, you may need command:
 > 
 >     cd show_results
 >     python show_fg_ex2.py
