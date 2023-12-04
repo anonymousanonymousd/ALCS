@@ -5,8 +5,8 @@
 > 2.   numpy==1.26.1
 > 3.   gym==0.15.7
 > 4.   matplotlib==3.5.3
-> 5.   baseline
->[baseline][https://github.com/openai/baselines]
+> 5.   baseline  [https://github.com/openai/baselines]
+>
 > 
 > To train policies, 
 > 
