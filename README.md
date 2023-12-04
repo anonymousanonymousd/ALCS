@@ -11,40 +11,22 @@
 >
 > To reproduce the result in paper, you may also change the arguments '--world' and '--task' to select the task you want to learn.
 >
-> Coffee task for OfficeWorld domain:
+> For OfficeWorld doamin, the following commends are for 'Coffee', 'Coffee and Mail', 'Collecting' and 'Bonus':
 > 
 >     python main.py --world=office --task=fg
->
-> Coffee and Mail task for OfficeWorld domain:
-> 
 >     python main.py --world=office --task=efg
->
-> Collecting task for OfficeWorld domain:
-> 
 >     python main.py --world=office --task=c4
->
-> Bonus task for OfficeWorld domain:
-> 
 >     python main.py --world=office --task=bonus
 >
-> Plant task for MineCraft domain:
+> Similarly, for MineCraft domain:
 > 
 >     python main.py --world=craft --task=plant
->
-> Bridge task for MineCraft domain:
-> 
 >     python main.py --world=craft --task=bridge
->
-> Bed task for MineCraft domain:
-> 
 >     python main.py --world=craft --task=bed
->
-> Gem task for MineCraft domain:
-> 
 >     python main.py --world=craft --task=gem
 >
 > 
-> To show the learning results, you may need command:
+> To show the learning results in the paper, you may need command:
 > 
 >     cd show_results
 >     python show_fg_ex2.py
