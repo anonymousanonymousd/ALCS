@@ -42,6 +42,14 @@
 > Gem task for MineCraft domain:
 > 
 >     python main.py --world=craft --task=gem
+>
+> 
+> To show the learning results, you may need command:
+> 
+>     cd show_results
+>     python show_fg_ex2.py
+>     python show_ab_ex2.py
+> 
 
 
 
