@@ -3,7 +3,8 @@
 > Requeirment
 > 1.   python==3.7.0
 > 2.   numpy==1.26.1
-> 3.   matplotlib==3.5.3
+> 3.   gym==0.15.7
+> 4.   matplotlib==3.5.3
 > 
 > To train policies, 
 > 
