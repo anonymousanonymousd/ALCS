@@ -26,9 +26,21 @@
 > Bonus task for OfficeWorld domain:
 > 
 >     python main.py --world=office --task=bonus
+>
+> Plant task for MineCraft domain:
+> 
 >     python main.py --world=craft --task=plant
+>
+> Bridge task for MineCraft domain:
+> 
 >     python main.py --world=craft --task=bridge
+>
+> Bed task for MineCraft domain:
+> 
 >     python main.py --world=craft --task=bed
+>
+> Gem task for MineCraft domain:
+> 
 >     python main.py --world=craft --task=gem
 
 
