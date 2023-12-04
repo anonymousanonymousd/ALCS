@@ -9,11 +9,22 @@
 > 
 >     python main.py
 >
-> You can also change the arguments '--world' and '--task' to select the task you want to learn. For example, the following commands will cover the training of 8 tasks in the paper,
+> To reproduce the result in paper, you may also change the arguments '--world' and '--task' to select the task you want to learn.
+>
+> Coffee task for OfficeWorld domain:
 > 
->     python main.py --world=office --task=fg        
+>     python main.py --world=office --task=fg
+>
+> Coffee and Mail task for OfficeWorld domain:
+> 
 >     python main.py --world=office --task=efg
+>
+> Collecting task for OfficeWorld domain:
+> 
 >     python main.py --world=office --task=c4
+>
+> Bonus task for OfficeWorld domain:
+> 
 >     python main.py --world=office --task=bonus
 >     python main.py --world=craft --task=plant
 >     python main.py --world=craft --task=bridge
